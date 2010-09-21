@@ -1,0 +1,4 @@
+#External Dependencies
+#Tue Sep 21 10:11:10 EDT 2010
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=src/main/scala/com/tyler/dsl.scala
+/Users/tjweir/g/dsl/project/boot/scala-2.8.0/lib/scala-library.jar=src/main/scala/com/tyler/dsl.scala

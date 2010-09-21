@@ -1,0 +1,13 @@
+;; This config was generated using ensime-config-gen. Feel free to customize its contents manually. 
+
+(
+
+:project-name "DSL"
+
+:server-root "/Users/tjweir/code/ensime"
+
+:project-package "com.tyler"
+
+:use-sbt t
+
+)
